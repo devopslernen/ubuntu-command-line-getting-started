@@ -1,0 +1,25 @@
+# Ubuntu Linux: Command Line für Beginner - Praxiskurs 2024
+
+## Inhaltsverzeichnis
+
+1. [Erste, einfache Kommandos](content/1-erste-befehle.md)
+   1. [Übung](content/1-2-erste-befehle-Uebung.md)
+   2. [Übung inkl. Lösung](content/1-2-erste-befehle-Uebung-loesung.md)
+2. [Hilfe für Kommandos erhalten: Manpages und "--help"](content/2-hilfe-nutzen.md)
+3. [Verzeichnisinhalte auflisten](content/3-verzeichnis-inhalte-auflisten.md)
+4. [Dateiinhalte ausgeben (anzeigen lassen)](content/4-datei-inhalte-ausgeben.md)
+5. [Dateien & Verzeichnisse: erstellen, kopieren, verschieben und löschen](content/5-dateien-verzeichnisse-operationen.md)
+6. [Absolute & relative Pfade](content/6-absolute-relative-pfade.md)
+7. [Filesystem Navigation: Verzeichnisse effizient wechseln](content/7-filesystem-navigieren-cd-kommando.md)
+8. [Root-Rechte erlangen: administrative Tätigkeiten durchführen](content/16-superuser.md)
+9. [Texteditoren: nano und vi](content/8-texteditoren.md)
+10. [Suchen innerhalb der Konsole: Dateien und Dateiinhalte](content/9-suchen.md)
+11. [Softwareinstallation und Aktualisierung mittels Package-Manager](content/15-apt.md)
+12. [Anzeigen und testen der Netzwerkkonfiguration: Grundlegende Befehle](content/10-network-display-config.md)
+13. [Prozesse auflisten und stoppen](content/11-prozesse.md)
+14. [Ein- und Ausgabeumleitung](content/12-ein-ausgabe-umleitung.md)
+15. [Erstellen und entpacken von Archiven](content/13-archive.md)
+16. [Zugriffsrechte verstehen und ändern](content/14-zugriffsrechte.md)
+17. [Übung: erweiterte Befehle](content/17-uebung-erweiterte-befehle.md)
+   1. [Lösung](content/17-uebung-erweiterte-befehle-loesung.md)
+18. [Übung: Shell-Skript](content/18-uebung-shell-skript.md)
