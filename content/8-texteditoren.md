@@ -14,7 +14,7 @@ Die wichtigsten Tastenkürzel zur Bedienung werden direkt im unteren Bereich des
 
 !["Screenshot von Editor nano"](image/nano.png)
 Dabei entspricht das Hochzeichen (**^**) dem Drücken der **STRG-Taste** bzw. der **control-Taste** (macOS).
-Beispiel: **^X** -> **STRG + X** bzw. **control + X** 
+Beispiel: **^X** → **STRG + X** bzw. **control + X** 
 
 Eine erweiterte Übersicht über die einzelnen Tastenkombinationen findet sich auf der Webseite von "nano": 
 https://www.nano-editor.org/dist/latest/cheatsheet.html
@@ -23,7 +23,7 @@ https://www.nano-editor.org/dist/latest/cheatsheet.html
 
 Der Editor **"vi"** ist ein leistungsstarker Texteditor, der auf vielen Unix-ähnlichen Betriebssystemen verfügbar ist. 
 "Vi" ist bekannt für seine Vielseitigkeit und Leistungsfähigkeit, wird jedoch oft als weniger intuitiv für Einsteiger angesehen.
-Im Gegensatz zu vielen anderen Editoren, existieren innerhalb von "vi" verschiedene Modi.
+Im Gegensatz zu vielen anderen Editoren existieren innerhalb von "vi" verschiedene Modi.
 
 Das Editieren einer Datei mittels "vi" kann wie folgt gestartet werden:
 

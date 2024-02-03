@@ -1,6 +1,6 @@
 # Zwischen Verzeichnissen wechseln
 
-Innerhalb der Konsole, können die Verzeichnisse mit dem `cd` Kommando gewechselt werden:
+Innerhalb der Konsole können die Verzeichnisse mit dem `cd` Kommando gewechselt werden:
 
 Beispiele:
 ```bash

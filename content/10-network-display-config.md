@@ -1,4 +1,4 @@
-# Netzwerkkonfiguration anzeigen und testen: Grundlegende Befehle
+# Netzwerkkonfiguration anzeigen und testen: grundlegende Befehle
 
 Um die Netzwerkkonfiguration auf einem Linux-System zu verifizieren, sind folgende grundlegende Befehle äußerst hilfreich: 
 
@@ -18,7 +18,7 @@ Um die Netzwerkkonfiguration auf einem Linux-System zu verifizieren, sind folgen
 * **`dhclient <interface>` - EINMALIGE DHCP-Konfiguration für Schnittstelle <interface> durchführen:**
    Ermöglicht temporär eine DHCP-Konfiguration für eine bestimmte Netzwerkschnittstelle.
 * **`netstat` - Netzwerkverbindungen anzeigen und analysieren:**
-   Netstat (Network Statistics) wird verwendet, um verschiedene Informationen über das Netzwerkverbindungen auf dem lokalen Hosts anzuzeigen.
+   Netstat (Network Statistics) wird verwendet, um verschiedene Informationen über Netzwerkverbindungen auf dem lokalen Host anzuzeigen.
    Einfach zu merken: `netstat -tulpen`:
    - Alle TCP-Verbindungen (`-t`).
    - Alle UDP-Verbindungen (`-u`).

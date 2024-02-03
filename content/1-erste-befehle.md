@@ -49,6 +49,6 @@ Beispiel: Long listing der Datei "/etc/passwd": Details (z.B. Dateigröße) ausg
 ls -l /etc/passwd
 ```
 
-* Kommando: der  Befehlsname, der angibt, welche Aktion ausgeführt werden soll.
+* Kommando: der Befehlsname, der angibt, welche Aktion ausgeführt werden soll.
 * Optionen: zusätzliche Parameter, die den Befehl beeinflussen.
 * Objekte: geben an, worauf (z.B. Daten) der Befehlt angewendet wird.

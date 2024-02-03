@@ -7,7 +7,7 @@
 
 **Nützliche Optionen von `find`:**
 
-- `-name muster`: Sucht nach Dateien mit einem bestimmten Namenmuster
+- `-name muster`: Sucht nach Dateien mit einem bestimmten Namensmuster
 - `-type [f|d]`: Filtert nach Dateien (`f`) oder Verzeichnissen (`d`)
 - `-mtime n`: Sucht nach Dateien, die in den letzten `n` Tagen geändert wurden
 - `-size n[unit]`: Sucht nach Dateien einer bestimmten Größe. Zum Beispiel: `-size +1M` für Dateien größer als 1 Megabyte

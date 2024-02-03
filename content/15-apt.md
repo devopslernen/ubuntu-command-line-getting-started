@@ -1,7 +1,7 @@
 # Softwareverwaltung mittels APT-Paketmanager 
 
 Der Paketmanager **APT (Advanced Packaging Tool)** ermöglicht die Installation, Deinstallation und Aktualisierung von Softwarepakete.
-Als Paketverwaltungssystem für Debian-Pakete, wird APT von zahlreichen Debian-basierten Distributionen wie Ubuntu oder Linux Mint eingesetzt.
+Als Paketverwaltungssystem für Debian-Pakete wird APT von zahlreichen Debian-basierten Distributionen wie Ubuntu oder Linux Mint eingesetzt.
 
 - **Paketquellen (Liste an verfügbaren Paketen) aktualisieren:**
   ```bash

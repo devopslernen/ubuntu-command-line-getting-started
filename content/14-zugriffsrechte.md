@@ -1,6 +1,6 @@
 # Zugriffsrechte unter Linux: Grundlagen
 
-Auf dieser Seite sind die Grundlagen bezüglich der Zugriffsrechte unter Linux zusammengefasst und essenzielle Kommandos im diesem Zusammenhang erklärt.
+Auf dieser Seite sind die Grundlagen bezüglich der Zugriffsrechte unter Linux zusammengefasst und essenzielle Kommandos in diesem Zusammenhang erklärt.
 
 ## Auflistung und Bedeutung
 
@@ -51,7 +51,7 @@ Auf dieser Seite sind die Grundlagen bezüglich der Zugriffsrechte unter Linux z
     - **`chmod g-w datei`:** Entzieht der Gruppe Schreibrechte für die Datei.
     - **`chmod o=rwx datei`:** Setzt Ausführungsrechte für andere Benutzer auf Lesen, Schreiben und Ausführen.
 - **chown-Kommando:**
-  - Kann  den Besitzer und die Gruppenzugehörigkeit von Dateien und Verzeichnissen ändern. 
+  - Kann den Besitzer und die Gruppenzugehörigkeit von Dateien und Verzeichnissen ändern. 
   - Root-Rechte sind erforderlich, um den Besitzer zu ändern.
   - **Beispiel (Besitzer und Gruppe ändern):** `sudo chown user:group datei` - Ändert sowohl den Benutzer als auch die Gruppe der Datei.
 - **chgrp-Kommando:**

@@ -3,7 +3,7 @@
 1. **Ausgabeumleitung**
    - **`>`: Standardausgabe umleiten**
      - Schreibt die Standardausgabe (STDOUT) eines Befehls in eine Datei oder ein schreibbares Gerät. Existiert die Datei, wird sie überschrieben.
-     - **Beispiel:** `ls > dateiliste.txt` - Speichert die Dateiliste des aktuellen Verzeichnises in "dateiliste.txt".
+     - **Beispiel:** `ls > dateiliste.txt` - Speichert die Dateiliste des aktuellen Verzeichnisses in "dateiliste.txt".
      - **Beispiel:** `cat /dev/sda >/dev/sdb` - Kopiert den Inhalt des schreibbaren Geräts `/dev/sda` in das schreibbare Gerät `/dev/sdb`.
    - **`>>`: Standardausgabe anhängen**
      - Hängt die Standardausgabe (STDOUT) eines Befehls an eine Datei oder ein schreibbares Gerät an oder erstellt diese, wenn nicht vorhanden.
