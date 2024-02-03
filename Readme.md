@@ -21,5 +21,5 @@
 15. [Erstellen und entpacken von Archiven](content/13-archive.md)
 16. [Zugriffsrechte verstehen und ändern](content/14-zugriffsrechte.md)
 17. [Übung: erweiterte Befehle](content/17-uebung-erweiterte-befehle.md)
-   1. [Lösung](content/17-uebung-erweiterte-befehle-loesung.md)
+   1. [Lösung](content/17-uebung-erweiterte-befehle-lösung.md)
 18. [Übung: Shell-Skript](content/18-uebung-shell-skript.md)
